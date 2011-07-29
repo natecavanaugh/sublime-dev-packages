@@ -5,7 +5,8 @@
         "caption": "AlloyUI",
         "children":
         [
-            { "command": "open_alloy_demo", "caption": "Open Demo" }
+            { "command": "open_alloy_demo", "caption": "Open Demo" },
+            { "command": "extract_strings_to_constants", "caption": "Extract Strings From Selection" }
         ]
     },
     {
