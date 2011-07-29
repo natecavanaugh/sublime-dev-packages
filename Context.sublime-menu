@@ -1,5 +1,13 @@
 [
     { "caption": "-" },
+        { "caption": "-" },
+    {
+        "caption": "AlloyUI",
+        "children":
+        [
+            { "command": "open_alloy_demo", "caption": "Open Demo" }
+        ]
+    },
     {
         "caption": "Convert Case",
         "children":

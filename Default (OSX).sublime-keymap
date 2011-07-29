@@ -17,5 +17,7 @@
 
 	{ "keys": ["alt+s"], "command": "expand_selection", "args": {"to": "scope"} },
 
-	{ "keys": ["super+shift+c"], "command": "expand_selection", "args": {"to": "scope"} }
+	{ "keys": ["super+shift+c"], "command": "expand_selection", "args": {"to": "scope"} },
+
+	{ "keys": ["ctrl+shift+o"], "command": "open_alloy_demo" }
 ]
