@@ -1,0 +1,15 @@
+[
+	{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+
+	{ "keys": ["super+u"], "command": "camelize_text" },
+
+	{ "keys": ["super+shift+u"], "command": "uncamelize_text" },
+
+	{ "keys": ["alt+u"], "command": "upper_case" },
+
+	{ "keys": ["alt+shift+u"], "command": "lower_case" },
+
+	{ "keys": ["ctrl+f"], "command": "trim_trailing_white_space" },
+
+	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "id": "convert_case",
+                "children":
+                [
+                    { "caption": "Camelize text", "command": "camelize_text" },
+                    { "caption": "Uncamelize text", "command": "uncamelize_text" }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "Convert Case",
+        "children":
+        [
+            { "command": "title_case", "caption": "Title Case" },
+            { "command": "upper_case", "caption": "Upper Case" },
+            { "command": "lower_case", "caption": "Lower Case" },
+            { "command": "swap_case", "caption": "Swap Case" },
+            { "caption": "Camelize text", "command": "camelize_text" },
+            { "caption": "Uncamelize text", "command": "uncamelize_text" }
+        ]
+    }
+]
