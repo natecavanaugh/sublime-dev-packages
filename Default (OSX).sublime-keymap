@@ -11,5 +11,7 @@
 
 	{ "keys": ["ctrl+f"], "command": "trim_trailing_white_space" },
 
-	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } }
+	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } },
+
+	{ "keys": ["ctrl+e"], "command": "extract_strings_to_constants" }
 ]
