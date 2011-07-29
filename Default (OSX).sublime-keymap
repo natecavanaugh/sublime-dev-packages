@@ -13,5 +13,9 @@
 
 	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } },
 
-	{ "keys": ["ctrl+e"], "command": "extract_strings_to_constants" }
+	{ "keys": ["ctrl+e"], "command": "extract_strings_to_constants" },
+
+	{ "keys": ["alt+s"], "command": "expand_selection", "args": {"to": "scope"} },
+
+	{ "keys": ["super+shift+c"], "command": "expand_selection", "args": {"to": "scope"} }
 ]

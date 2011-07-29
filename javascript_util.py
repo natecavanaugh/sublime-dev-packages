@@ -4,7 +4,7 @@ def getVarName(string):
 	return su.uncamelize(string, "_").upper()
 
 def getVarValue(string):
-	return su.decapitalize(su.camelize(string))
+	return su.camelize(string)
 
 class ExtractStringsToConstantsCommand(sublime_plugin.TextCommand):
     def run(self, edit):
