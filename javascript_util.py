@@ -1,4 +1,4 @@
-import sublime, sublime_plugin, string_util as su
+import sublime, sublime_plugin, string_util as su, re
 
 def getVarName(string):
 	return su.uncamelize(string, "_").upper()
