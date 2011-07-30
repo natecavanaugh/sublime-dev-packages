@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[var ${0:name} = {
+	
+};]]></content>
+    <tabTrigger>varo</tabTrigger>
+    <scope></scope>
+    <description>Define Variable Object</description>
+</snippet>

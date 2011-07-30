@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var contentBox = instance.get(CONTENT_BOX);]]></content>
+    <tabTrigger>varc</tabTrigger>
+    <scope></scope>
+    <description>Define contentBox Variable</description>
+</snippet>

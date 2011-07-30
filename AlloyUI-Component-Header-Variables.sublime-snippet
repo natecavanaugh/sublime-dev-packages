@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[var Lang = A.Lang,
+	isString = Lang.isString,
+
+	AArray = A.Array,
+
+	AgetClassName = A.getClassName,
+
+	CSS_NAME = AgetClassName(NAME);]]></content>
+    <tabTrigger>ch</tabTrigger>
+    <scope></scope>
+    <description>Create Alloy Component Header Variables</description>
+</snippet>

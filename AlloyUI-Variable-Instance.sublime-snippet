@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var instance = this;]]></content>
+    <tabTrigger>vari</tabTrigger>
+    <scope></scope>
+    <description>Define Variable Instance</description>
+</snippet>

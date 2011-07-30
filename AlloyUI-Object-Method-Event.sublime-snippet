@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[${1:method_name}: function(${3:event}) {
+    var instance = this;
+	$0
+}${10:,}]]></content>
+    <tabTrigger>:fe</tabTrigger>
+    <scope></scope>
+    <description>Object Method Event</description>
+</snippet>

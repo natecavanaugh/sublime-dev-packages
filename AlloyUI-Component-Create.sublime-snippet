@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[A.${1:Name} = A.Component.create({
+	NAME: '$1',
+
+	ATTRS: {
+	},
+
+	EXTENDS: A.${2:Base},
+
+	protoype: {
+		initializer: function() {
+			var instance = this;
+			
+		}
+	}
+});]]></content>
+    <tabTrigger>cc</tabTrigger>
+    <scope></scope>
+    <description>Create Alloy A.Component Class</description>
+</snippet>

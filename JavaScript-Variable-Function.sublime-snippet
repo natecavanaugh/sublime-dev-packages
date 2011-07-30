@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[var ${0:name} = function() {
+	
+};]]></content>
+    <tabTrigger>varf</tabTrigger>
+    <scope></scope>
+    <description>Define Variable Function</description>
+</snippet>

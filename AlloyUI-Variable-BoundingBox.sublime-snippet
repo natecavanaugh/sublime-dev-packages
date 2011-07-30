@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[var boundingBox = instance.get(BOUNDING_BOX);]]></content>
+    <tabTrigger>varb</tabTrigger>
+    <scope></scope>
+    <description>Define boundinBox Variable</description>
+</snippet>
