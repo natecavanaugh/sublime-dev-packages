@@ -1,1 +1,10 @@
-[]
+[
+	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } },
+	{ "keys": ["alt+f6"], "command": "sort_selected_methods" }
+	{ "keys": ["alt+shift+f"], "command": "trim_trailing_white_space" },
+	{ "keys": ["alt+shift+u"], "command": "lower_case" },
+	{ "keys": ["alt+u"], "command": "upper_case" },
+	{ "keys": ["ctrl+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+u"], "command": "uncamelize_text" },
+	{ "keys": ["ctrl+u"], "command": "camelize_text" },
+]

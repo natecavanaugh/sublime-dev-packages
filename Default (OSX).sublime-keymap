@@ -1,23 +1,14 @@
 [
-	{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
-
-	{ "keys": ["super+u"], "command": "camelize_text" },
-
-	{ "keys": ["super+shift+u"], "command": "uncamelize_text" },
-
-	{ "keys": ["alt+u"], "command": "upper_case" },
-
-	{ "keys": ["alt+shift+u"], "command": "lower_case" },
-
-	{ "keys": ["ctrl+f"], "command": "trim_trailing_white_space" },
-
 	{ "keys": ["alt+f5"], "command": "sort_lines", "args": { "remove_duplicates": true } },
-
-	{ "keys": ["ctrl+e"], "command": "extract_strings_to_constants" },
-
+	{ "keys": ["alt+f6"], "command": "sort_selected_methods" },
 	{ "keys": ["alt+s"], "command": "expand_selection", "args": {"to": "scope"} },
-
+	{ "keys": ["alt+shift+u"], "command": "lower_case" },
+	{ "keys": ["alt+u"], "command": "upper_case" },
+	{ "keys": ["ctrl+e"], "command": "extract_strings_to_constants" },
+	{ "keys": ["ctrl+f"], "command": "trim_trailing_white_space" },
+	{ "keys": ["ctrl+shift+o"], "command": "open_alloy_demo" },
 	{ "keys": ["super+shift+c"], "command": "expand_selection", "args": {"to": "scope"} },
-
-	{ "keys": ["ctrl+shift+o"], "command": "open_alloy_demo" }
+	{ "keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+shift+u"], "command": "uncamelize_text" },
+	{ "keys": ["super+u"], "command": "camelize_text" }
 ]

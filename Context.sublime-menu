@@ -1,6 +1,5 @@
 [
     { "caption": "-" },
-        { "caption": "-" },
     {
         "caption": "AlloyUI",
         "children":
@@ -20,5 +19,7 @@
             { "caption": "Camelize text", "command": "camelize_text" },
             { "caption": "Uncamelize text", "command": "uncamelize_text" }
         ]
-    }
+    },
+    { "caption": "-" },
+    { "command": "sort_selected_methods", "caption": "Sort Methods From Selection" }
 ]
