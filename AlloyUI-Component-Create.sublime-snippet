@@ -7,7 +7,7 @@
 
 	EXTENDS: A.${2:Base},
 
-	protoype: {
+	prototype: {
 		initializer: function() {
 			var instance = this;
 			
