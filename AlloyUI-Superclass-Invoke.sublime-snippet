@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[A.${1:Class}.superclass.${2:renderUI}.apply(this, arguments);]]></content>
+    <tabTrigger>:s</tabTrigger>
+    <scope></scope>
+    <description>Invoke Superclass Method</description>
+</snippet>
