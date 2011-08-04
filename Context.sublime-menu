@@ -8,6 +8,14 @@
             { "command": "extract_strings_to_constants", "caption": "Extract Strings From Selection" }
         ]
     },
+    { "caption": "-" },
+    {
+        "caption": "Liferay",
+        "children":
+        [
+            { "command": "wrap_in_jsp_language_taglib", "caption": "Wrap in JSP Language Taglib" }
+        ]
+    },
     {
         "caption": "Convert Case",
         "children":
