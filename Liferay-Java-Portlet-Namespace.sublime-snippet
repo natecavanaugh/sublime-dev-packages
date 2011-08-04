@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[renderResponse.getNamespace()]]></content>
+    <tabTrigger>:pn</tabTrigger>
+    <scope></scope>
+    <description>Liferay Java Portlet Namespace</description>
+</snippet>

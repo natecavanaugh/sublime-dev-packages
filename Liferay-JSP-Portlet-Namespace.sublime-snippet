@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[<portlet:namespace />]]></content>
+    <tabTrigger>:pn</tabTrigger>
+    <scope></scope>
+    <description>Liferay JSP Portlet Namespace</description>
+</snippet>
